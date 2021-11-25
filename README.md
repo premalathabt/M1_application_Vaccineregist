@@ -25,9 +25,14 @@ This is a C Programming vaccine registration application project. this project  
  ![project quality](https://api.codiga.io/project/29962/status/svg) 
   # cpp check
 [![cppcheck-action-test](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/cppcheck.yml)
- # Build badge
+ #  Linux Build badge
  [![Linux os build](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/build.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/build.yml)
   
+  #  Windows Build badge
+   
+   
+   
+   
  # unity testing
  [![unit testing - unity](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/unit%20testing.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/unit%20testing.yml)
 
