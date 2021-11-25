@@ -32,4 +32,4 @@ This is a C Programming vaccine registration application project. this project  
  [![unit testing - unity](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/unittesting.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/unittesting.yml)
  
  # c/c++ CI
- [![C/C++ CI](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/c_bulid.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/c_bulid.yml)
+[![C/C++ CI](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/c%20build.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/c%20build.yml)
