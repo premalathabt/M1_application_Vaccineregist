@@ -29,7 +29,7 @@ This is a C Programming vaccine registration application project. this project  
  [![Linux os build](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/build.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/build.yml)
   
   #  Windows Build badge
-   
+   [![Windows os build](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/windowsbuild.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/windowsbuild.yml)
    
    
    
