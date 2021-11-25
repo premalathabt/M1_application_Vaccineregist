@@ -29,6 +29,7 @@ This is a C Programming vaccine registration application project. this project  
  [![Linux os build](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/build.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/build.yml)
   
  # unity testing
+ [![unit testing - unity](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/unit%20testing.yml/badge.svg)](https://github.com/premalathabt/M1_application_Vaccineregist/actions/workflows/unit%20testing.yml)
 
  
  # c/c++ CI
